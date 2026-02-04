@@ -1,0 +1,9 @@
+urban-octo-train/
+│
+├── index.html        ✅
+│
+├── css/
+│   └── style.css     ✅
+│
+├── js/
+│   └── main.js       (optional)
